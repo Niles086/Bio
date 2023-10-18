@@ -8,3 +8,7 @@ nav ul {
     display: flex;
     justify-content: center;
 }
+
+nav li {
+    margin: 0 15px;
+}
