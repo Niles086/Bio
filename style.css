@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(137, 138, 138);
+    background-color: rgb(119, 126, 126);
 }
 
 nav ul {
@@ -16,7 +16,7 @@ nav li {
 .button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: rgb(22, 190, 228); /* Button background color */
+    background-color: rgb(154, 154, 154); /* Button background color */
     color: rgb(5, 5, 5); /* Text color */
     text-decoration: none;
     border: none;
