@@ -13,7 +13,7 @@ nav li {
     margin: 0 15px;
 }
 
-button {
+.button {
     display: inline-block;
     padding: 10px 20px;
     background-color: rgb(22, 190, 228); /* Button background color */
