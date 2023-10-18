@@ -28,6 +28,7 @@ nav li {
 .bubble {
     font-family: Arial, sans-serif;
     font-size: 48px;
+    background: linear-gradient(45deg, hsl(231, 77%, 67%), #2beac7);
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
