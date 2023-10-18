@@ -2,3 +2,6 @@ body {
     background-color: rgb(187, 218, 232);
 }
 
+nav ul {
+    justify-content: center;
+}
