@@ -12,3 +12,15 @@ nav ul {
 nav li {
     margin: 0 15px;
 }
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(79, 191, 232); /* Button background color */
+    color: rgb(5, 5, 5); /* Text color */
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
