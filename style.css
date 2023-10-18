@@ -16,7 +16,7 @@ nav li {
 button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: rgb(79, 191, 232); /* Button background color */
+    background-color: rgb(199, 199, 199); /* Button background color */
     color: rgb(5, 5, 5); /* Text color */
     text-decoration: none;
     border: none;
